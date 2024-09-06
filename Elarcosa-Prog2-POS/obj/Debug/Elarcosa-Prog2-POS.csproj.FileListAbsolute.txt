@@ -1,0 +1,10 @@
+C:\Users\CJ Elarcosa\source\repos\1st year 2nd sem\Act3-POS\Elarcosa-Prog2-POS\bin\Debug\Elarcosa-Prog2-POS.exe.config
+C:\Users\CJ Elarcosa\source\repos\1st year 2nd sem\Act3-POS\Elarcosa-Prog2-POS\bin\Debug\Elarcosa-Prog2-POS.exe
+C:\Users\CJ Elarcosa\source\repos\1st year 2nd sem\Act3-POS\Elarcosa-Prog2-POS\bin\Debug\Elarcosa-Prog2-POS.pdb
+C:\Users\CJ Elarcosa\source\repos\1st year 2nd sem\Act3-POS\Elarcosa-Prog2-POS\obj\Debug\Elarcosa_Prog2_POS.Form1.resources
+C:\Users\CJ Elarcosa\source\repos\1st year 2nd sem\Act3-POS\Elarcosa-Prog2-POS\obj\Debug\Elarcosa_Prog2_POS.Properties.Resources.resources
+C:\Users\CJ Elarcosa\source\repos\1st year 2nd sem\Act3-POS\Elarcosa-Prog2-POS\obj\Debug\Elarcosa-Prog2-POS.csproj.GenerateResource.cache
+C:\Users\CJ Elarcosa\source\repos\1st year 2nd sem\Act3-POS\Elarcosa-Prog2-POS\obj\Debug\Elarcosa-Prog2-POS.exe
+C:\Users\CJ Elarcosa\source\repos\1st year 2nd sem\Act3-POS\Elarcosa-Prog2-POS\obj\Debug\Elarcosa-Prog2-POS.pdb
+C:\Users\CJ Elarcosa\source\repos\1st year 2nd sem\Act3-POS\Elarcosa-Prog2-POS\obj\Debug\Elarcosa-Prog2-POS.csproj.AssemblyReference.cache
+C:\Users\CJ Elarcosa\source\repos\1st year 2nd sem\Act3-POS\Elarcosa-Prog2-POS\obj\Debug\Elarcosa-Prog2-POS.csproj.CoreCompileInputs.cache
